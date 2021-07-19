@@ -25,11 +25,6 @@ fieldset {
   padding-right: 10px;
 }
 
-.zone1 {
-  margin-bottom: 100px;
-}
-
-
 .afficheur {
   color: rgb(20, 31, 92);
   font-size: 24px;
@@ -54,6 +49,16 @@ button {
   border-radius: 5px;
   padding: 20px;
   transition: 0.4s ease;
+}
+
+button[id="clear"]:hover {
+  cursor: pointer;
+  background-color: rgb(204, 0, 0);
+}
+
+button[id="resultat"]:hover {
+  cursor: pointer;
+  background-color: rgb(255, 187, 0);
 }
 
 button:hover {
