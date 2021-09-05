@@ -1,6 +1,8 @@
 ## Introduction
 Une calculatrice interactive qui permet de réaliser des actions simples (additions, soustractions, multiplications, divisions) et affiche le résultat à l'écran. Possibilté de saisir des nombres au clavier.
+</br></br>
 
+##  Langages de programmation
 - L'application a été développée en Javascript avec frontEnd HTML/CSS</br></br>
 
 ## Application en ligne
